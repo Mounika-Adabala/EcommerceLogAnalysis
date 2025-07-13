@@ -48,3 +48,12 @@ graph TD
     C --> D[Exploratory Analysis]
     D --> E[Model Training]
     E --> F[Prediction]
+```
+## Results
+<img width="672" height="252" alt="image" src="https://github.com/user-attachments/assets/29bf6064-afe2-4fce-aeca-74b19e24a838" />
+
+<img width="769" height="425" alt="image" src="https://github.com/user-attachments/assets/09b7a282-a6ed-4419-9d2a-5f54fd04e7d0" />
+
+<img width="569" height="489" alt="image" src="https://github.com/user-attachments/assets/6328163d-75cc-4d45-b72f-7c7ac3bdbcfb" />
+
+
